@@ -1,16 +1,10 @@
 # store_app
 
-A new Flutter project.
+![store app](https://github.com/user-attachments/assets/10be57ea-aca5-4929-be76-ba3bc399a8a3)
 
-## Getting Started
+Technical Details:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter & Dart: Utilized for developing a cross-platform application with a responsive and attractive UI.
+API Integration: Employed RESTful APIs to fetch and update data from the backend, ensuring a robust and scalable solution.
+Postman: Used for testing and verifying API endpoints, ensuring smooth communication between the app and server.
+State Management: Implemented efficient state management techniques for a seamless user experience.
